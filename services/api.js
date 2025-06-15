@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3000/api'
+const API_URL = 'https://abmediaback.vercel.app/api'
 
 export const getDestination = async () =>{
     try{

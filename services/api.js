@@ -1,4 +1,4 @@
-const API_URL = 'https://abmediaback.vercel.app/api'
+const API_URL = 'https://abmediaback.onrender.com/api'
 
 export const getDestination = async () =>{
     try{
